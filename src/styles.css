@@ -3,8 +3,8 @@ body {
   font-size: 18px;
 }
 
-.header{
-  height: 50px;
+.header {
+  height: 49px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,3 +22,4 @@ body {
 .content{
   min-height: calc(100vh - 100px);
 }
+
